@@ -8,3 +8,4 @@ def position_choice():
     while choice not in ['0','1','2']:
         choice = input("pick position (0,1,2): ")
         if choice not in ['0','1','2']
+#hello github
